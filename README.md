@@ -5,13 +5,13 @@
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_gitlab"></a> [gitlab](#requirement\_gitlab) | 15.10.0 |
+| <a name="requirement_gitlab"></a> [gitlab](#requirement\_gitlab) | 15.11.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_gitlab"></a> [gitlab](#provider\_gitlab) | 15.10.0 |
+| <a name="provider_gitlab"></a> [gitlab](#provider\_gitlab) | 15.11.0 |
 
 ## Modules
 
@@ -21,7 +21,7 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [gitlab_user.main](https://registry.terraform.io/providers/gitlabhq/gitlab/15.10.0/docs/data-sources/user) | data source |
+| [gitlab_user.main](https://registry.terraform.io/providers/gitlabhq/gitlab/15.11.0/docs/data-sources/user) | data source |
 
 ## Inputs
 
